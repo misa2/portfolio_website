@@ -1,3 +1,2 @@
 ## Personal Portfolio
-
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+Based on Adrian Hajdin original work

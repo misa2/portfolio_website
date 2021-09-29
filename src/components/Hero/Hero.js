@@ -9,12 +9,14 @@ const Hero = () => (
     <LeftSection>
       <SectionTitle main center>
         Welcome to <br />
-        My Portfolio
+        Milos Kostic's portfolio
       </SectionTitle>
       <SectionText>
-        The joys of coding rediscovered. Javascript developer.
+        The joys of coding rediscovered. <br />Now with functional programming flavor.
       </SectionText>
-      <Button onClick={()=> window.location = 'https://google.com'}>Learn More</Button>
+      {/*
+        <Button onClick={()=> window.location = 'https://google.com'}>Learn More</Button>
+      */}
     </LeftSection>
   </Section>
   );

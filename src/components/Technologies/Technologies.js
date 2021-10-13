@@ -30,16 +30,8 @@ const Technologies = () =>  (
           </ListParagraph>
         </ListContainer>
       </ListItem>
-      <ListItem>
-        <DiUikit size="3rem" />
-        <ListContainer>
-          <ListTitle>UI/UX design</ListTitle>
-          <ListParagraph>
-            Experience with <br />tools like Figma and Adobe UX
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
     </List>
+    <SectionDivider />
   </Section>
 );
 

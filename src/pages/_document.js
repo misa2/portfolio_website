@@ -34,7 +34,7 @@ export default class MyDocument extends Document {
           {/*}
           <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
           */}
-          <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
+          <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Display:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
         </Head>
         <body>
           <Main />

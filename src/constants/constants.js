@@ -20,7 +20,7 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 1993, text: 'First commenrcial application (Clipper, dBase)', },
+  { year: 1993, text: 'First commercial application (Clipper, dBase)', },
   { year: 1996, text: 'Biggest commercial application (Visual Basic, Visual C)', },
   { year: 1998, text: 'Got full time job as developer (databases, Novell)', },
   { year: 2002, text: 'Last coding job for US based company JScape (Java)', },

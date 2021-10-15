@@ -6,7 +6,7 @@ import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTi
 
 const Footer = () => {
   return (
-    <FooterWrapper>
+    <FooterWrapper>{/*
       <LinkList>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
@@ -16,10 +16,10 @@ const Footer = () => {
           <LinkTitle>email</LinkTitle>
           <LinkItem href="mailto:contact@kmilos.com">contact@kmilos.com</LinkItem>
         </LinkColumn>
-      </LinkList>
+    </LinkList> */}
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Delivering exellence</Slogan>
+          <Slogan>Still passionate about coding</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/misa2">

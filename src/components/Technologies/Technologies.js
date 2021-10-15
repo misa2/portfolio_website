@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range of technologies and methodologies. Backend to frontend and back.
+      Recent technologies that I've been using revolve around Javascript, and modern frameworks for both backend and frontend development.
     </SectionText>
     <List>
       <ListItem>
